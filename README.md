@@ -1,10 +1,10 @@
 <h1>Calculadora fácil</h1>
 
-<h2>📝 Sobre</h2>
+<h2>📝 Info:</h2>
 <p>Projeto prático e rápido</p>
 
-## 🚀 Tecnologias
+## 🚀 Tecnologia usada
 <div>
-  <img src="[[https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white](https://images.app.goo.gl/As1aQXHh2F13R4Hj9)](https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png)">
+  <img src="https://github.com/user-attachments/assets/0f7fac17-77a4-40f2-aea6-5fdebd299718](https://github.com/user-attachments/assets/0ad4a8c0-67f5-4e10-b448-16dedeb8a5f2" width="50px">
 </div>
 
